@@ -1,0 +1,126 @@
+{
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "top": -1
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -2004,
+                "bottom": 2790
+            }
+        }
+    },
+    "io.wispforest.accessories.menu.variants.AccessoriesMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "ignore": true
+    },
+    "com.tom.storagemod.menu.StorageTerminalMenu": {
+        "ignore": true
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "ignore": true
+    },
+    "com.tom.storagemod.menu.CraftingTerminalMenu": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.bank.BankScreen": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.bank.BankMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.FilterScreen": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.FilterMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.AttributeFilterMenu": {
+        "ignore": true
+    },
+    "com.jesz.createdieselgenerators.content.entity_filter.EntityFilterScreen": {
+        "ignore": true
+    },
+    "com.jesz.createdieselgenerators.content.entity_filter.EntityFilterMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.PackageFilterScreen": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.PackageFilterMenu": {
+        "ignore": true
+    },
+    "com.supermartijn642.core.gui.WidgetContainerScreen": {
+        "ignore": true
+    },
+    "com.supermartijn642.rechiseled.screen.ChiselContainer": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.bank.blaze_banker.BlazeBankerScreen": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.bank.blaze_banker.BlazeBankerMenu": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.depositor.BrassDepositorScreen": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.depositor.BrassDepositorMenu": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.depositor.AndesiteDepositorScreen": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.depositor.AndesiteDepositorMenu": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.vendor.VendorScreen": {
+        "ignore": true
+    },
+    "dev.ithundxr.createnumismatics.content.vendor.VendorMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.ItemRenameScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.ItemRenameMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.LightroomScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.LightroomMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.camera.CameraAttachmentsScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.CameraInHandAttachmentsMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.album.AlbumScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.AlbumMenu": {
+        "ignore": true
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SORT": {
+                "top": 1
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu": {
+        "ignore": true
+    }
+}

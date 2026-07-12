@@ -1,0 +1,244 @@
+{
+    "Features": {
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_auto_refill": {
+            "value": false
+        },
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "item_scrolling": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "for_modpack_devs": true,
+        "first_run": false,
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_auto_refill": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "sort_at_cursor": false,
+        "custom_rule": "",
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "show_fast_rename_checkbox": {
+            "value": false
+        },
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        },
+        "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false,
+        "regular_custom_rule": "",
+        "in_columns_custom_rule": "",
+        "in_rows_custom_rule": ""
+    },
+    "SortSettings": {
+        "custom_rule": "",
+        "sort_at_cursor": false
+    },
+    "LockedSlotsSettings": {
+        "enable_lock_slots": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "auto_refill_temp_disable_refill_for_tools": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        }
+    },
+    "EditProfiles": {
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": "F,I,X,T,S"
+            }
+        },
+        "auto_refill_gui_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_game_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_4": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_5": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_6": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_7": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_8": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_9": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_10": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_components": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

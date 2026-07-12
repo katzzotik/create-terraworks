@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "tabHeaderIcons": true,
+  "tabHeaderVersionLabels": true,
+  "tabHeaderCollapseMode": "all_expanded",
+  "tabHeaders": true,
+  "collapseSinglePageGroups": true,
+  "collapsibleGroups": true,
+  "tooltipDelayMs": 500,
+  "tooltipOptionIds": false,
+  "colorThemes": true,
+  "reverseCyclingControls": true,
+  "shiftScrollSliderAdjustments": true,
+  "resetButtonOverlay": false,
+  "undoButtonOverlay": false
+}
