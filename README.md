@@ -1,8 +1,10 @@
 ![Terraworks Logo](gallery/CTWtitle.png)
 ## GitHub
 The GitHub repository for the Create: Terraworks modpack on Modrinth.\
-This repo contains the files from the .mrpack file, and can additionally be used for issue reporting.\
-You can find the modpack here: https://modrinth.com/modpack/create-terraworks
+This repo contains the files from the .mrpack file, and can additionally be used for issue reporting.
+
+[![ModrinthPage](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/modpack/create-terraworks)
+[![GitHubPage](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/github_64h.png?raw=true)](https://github.com/katzzotik/create-terraworks/)
 
 # Welcome!
 
